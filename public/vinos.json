@@ -1,0 +1,114 @@
+[ 
+    {
+      "id": 1,
+      "nombre": "Malbec Reserva",
+      "img": "/img/vino.png",
+      "tipo": "Tinto",
+      "uvas": "Malbec",
+      "region": "Mendoza, Argentina",
+      "ano": 2021,
+      "precio": 5000,
+      "notas_cata": "Aromas a ciruela, cereza negra y un toque de vainilla. Cuerpo medio con taninos suaves.",
+      "maridaje": ["Carnes rojas", "Pastas con salsas intensas", "Quesos curados"]
+    },
+    {
+      "id": 2,
+      "nombre": "Cabernet Sauvignon Gran Reserva",
+      "tipo": "Tinto",
+      "uvas": "Cabernet Sauvignon",
+      "region": "Valle de Colchagua, Chile",
+      "ano": 2020,
+      "precio": 5890,
+      "notas_cata": "Cassis, pimienta negra y notas de roble. Estructura firme y final prolongado.",
+      "maridaje": ["Carnes a la parrilla", "Estofados", "Quesos maduros"]
+    },
+    {
+      "id": 3,
+      "nombre": "Chardonnay Barrica",
+      "tipo": "Blanco",
+      "uvas": "Chardonnay",
+      "region": "Valle de Casablanca, Chile",
+      "ano": 2022,
+      "precio": 7933,
+      "notas_cata": "Frutas tropicales, mantequilla y vainilla. Buena acidez y persistencia.",
+      "maridaje": ["Pescados grasos", "Mariscos", "Pasta con salsas cremosas"]
+    },
+    {
+      "id": 4,
+      "nombre": "Sauvignon Blanc Selección",
+      "tipo": "Blanco",
+      "uvas": "Sauvignon Blanc",
+      "region": "Marlborough, Nueva Zelanda",
+      "ano": 2023,
+      "precio": 8907,
+      "notas_cata": "Cítricos, maracuyá y notas herbáceas. Fresco y vibrante.",
+      "maridaje": ["Mariscos", "Ensaladas", "Comida asiática"]
+    },
+    {
+      "id": 5,
+      "nombre": "Pinot Noir Elegance",
+      "tipo": "Tinto",
+      "uvas": "Pinot Noir",
+      "region": "Borgoña, Francia",
+      "ano": 2021,
+      "precio": 3569,
+      "notas_cata": "Frutos rojos, notas terrosas y un ligero toque de especias. Ligero y elegante.",
+      "maridaje": ["Aves", "Pescados grasos", "Quesos suaves"]
+    },
+    {
+      "id": 6,
+      "nombre": "Tempranillo Roble",
+      "tipo": "Tinto",
+      "uvas": "Tempranillo",
+      "region": "Rioja, España",
+      "ano": 2020,
+      "precio": 10983,
+      "notas_cata": "Frutas negras, vainilla y especias dulces. Medio cuerpo con taninos suaves.",
+      "maridaje": ["Carnes asadas", "Quesos semicurados", "Paellas"]
+    },
+    {
+      "id": 7,
+      "nombre": "Verdejo Joven",
+      "tipo": "Blanco",
+      "uvas": "Verdejo",
+      "region": "Rueda, España",
+      "ano": 2022,
+      "precio": 2846,
+      "notas_cata": "Frutas cítricas, heno y un toque mineral. Fresco y equilibrado.",
+      "maridaje": ["Pescados blancos", "Comida mediterránea", "Quesos frescos"]
+    },
+    {
+      "id": 8,
+      "nombre": "Zinfandel Premium",
+      "tipo": "Tinto",
+      "uvas": "Zinfandel",
+      "region": "California, EE.UU.",
+      "ano": 2019,
+      "precio": 9745,
+      "notas_cata": "Moras, ciruelas y un toque de pimienta negra. Cuerpo medio-alto y final especiado.",
+      "maridaje": ["BBQ", "Carnes ahumadas", "Quesos fuertes"]
+    },
+    {
+      "id": 9,
+      "nombre": "Rosé Provence",
+      "tipo": "Rosado",
+      "uvas": "Garnacha, Cinsault",
+      "region": "Provenza, Francia",
+      "ano": 2023,
+      "precio": 8634,
+      "notas_cata": "Fresas, cítricos y flores blancas. Ligero y refrescante.",
+      "maridaje": ["Ensaladas", "Comida ligera", "Aperitivos"]
+    },
+    {
+      "id": 10,
+      "nombre": "Moscato Dulce",
+      "tipo": "Blanco Dulce",
+      "uvas": "Moscatel",
+      "region": "Piamonte, Italia",
+      "ano": 2022,
+      "precio": 5003,
+      "notas_cata": "Frutas tropicales, miel y flores blancas. Dulce y ligero.",
+      "maridaje": ["Postres", "Frutas frescas", "Quesos azules"]
+    }
+  ]
+
